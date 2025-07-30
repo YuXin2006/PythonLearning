@@ -1,2 +1,5 @@
 # PythonLearning
-Python
+Python 
+django 
+postgreSQL 
+meachine learning
